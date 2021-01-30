@@ -11,3 +11,6 @@ On this page you will find the following:
 
 ## Contact information
 Please do not contact me about my portfolio.
+
+## Application Screenshot
+![Image of App](https://raw.githubusercontent.com/cpusillo/assets/main/Screen%20Shot%202021-01-30%20at%209.54.17%20AM.png)
