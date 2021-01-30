@@ -1,6 +1,5 @@
 {
-  "name": "my-portfolio",
-  "homepage": "https://cpusillo.github.io",
+  "name": "cpusillo.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,7 +17,8 @@
     "react-icons": "^4.1.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
-    "web-vitals": "^0.2.4"
+    "web-vitals": "^0.2.4",
+    "homepage": "https://cpusillo.github.io"
   },
   "scripts": {
     "predeploy": "npm run build",
